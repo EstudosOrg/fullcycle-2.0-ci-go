@@ -32,4 +32,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true 
-          tags: estudosorg/fullcycle-2.0-ci-go:latest
+          tags: jeansena/fullcycle-2.0-ci-go:latest
